@@ -1,0 +1,8 @@
+server:
+  port: 9060
+  
+spring:
+  security:
+    user:
+      name: akhil
+      password: akhil@123
